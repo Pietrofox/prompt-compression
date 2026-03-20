@@ -49,7 +49,7 @@ Three strategies control the tradeoff:
 ## Quick start
 
 ```bash
-git clone https://github.com/your-username/prompt-compression
+git clone https://github.com/pietrofox/prompt-compression
 cd prompt-compression
 pip install groq   # only if using Groq API
 ```
